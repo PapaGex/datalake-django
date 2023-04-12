@@ -5,7 +5,7 @@ Further implementation of the [Datalake-Next.js](https://github.com/yaleksenko/d
 
 DataLake is a powerful customer management application built with Next.js, Django Rest Framework, PostgresSQL and Tailwind CSS. It provides a modern and convenient way to manage your customer data, all in one place. With the help of an API that fetches data from PostgreSQL and Redux for state management, DataLake offers a seamless and responsive experience for its users.
 
-DataLake has implemented authentication using JWT tokens, providing additional security guarantees. With this, each user can now create, edit, and manage their clients, which are only visible to them. Additionally, DataLake offers an easy-to-use interface for viewing, adding, editing, or deleting customers from your database. You can even search for customers by their first and last names, and the application uses dynamic filtering by all fields to help you quickly find the customers you're looking for.
+DataLake has implemented authentication using JWT tokens, providing additional security guarantees. With this, each user can now create, edit, and manage their clients, which are only visible to them. Additionally, DataLake offers an easy-to-use interface for viewing, adding, editing, or deleting customers from your database. You can even search for customers by all fields to help you quickly find the customers you're looking for.
 
 But that's not all! In the near future, I plan to add even more exciting features to DataLake. These will include the ability to mass-import customers, notifications, and powerful analytics tools. With these additional tools, you'll be able to better understand your customers and make data-driven decisions to drive your business forward.     
 
