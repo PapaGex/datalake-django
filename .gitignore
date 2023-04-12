@@ -1,0 +1,74 @@
+# Ignore Python environment folders
+venv/
+env/
+.venv/
+.venv3/
+
+# Ignore temporary files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+**/__pycache__/
+*.egg-info/
+dist/
+build/
+*.egg
+*.egg-info
+
+# Ignore configuration files containing sensitive information
+*.env
+*.env.local
+*.env.production
+*.ini
+*.log
+*.pot
+*.pyc
+*.sqlite3
+
+# Ignore generated static files
+/staticfiles/
+/media/
+
+# Ignore Django migration files
+**/migrations/
+
+# Ignore Node.js environment folders
+node_modules/
+npm-debug.log*
+
+# Ignore Next.js build output
+.next/
+
+# Ignore temporary files
+.DS_Store
+*.log
+*.log*
+*.pid
+*.sock
+*.swp
+*~
+
+# Ignore IDE files
+.idea/
+.vscode/
+**/.vscode/
+
+# Ignore package manager files
+yarn.lock
+package-lock.json
+
+# Ignore production build
+out/
+
+# Ignore Docker containers and images
+docker-compose.yml
+docker-compose.override.yml
+.docker/
+
+# Ignore Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Ignore Linter
+.eslintrc.json
