@@ -12,9 +12,9 @@ But that's not all! In the near future, I plan to add even more exciting feature
 Join me on this exciting journey to revolutionize customer management with DataLake.
 
 You can see the demo version of the project by following the link:
-(Create a new account or click [Demo](https://data.deeplogic.dev/demo/))
+(Create a new account or click [Demo](https://data.deeplogic.ch/demo/))
 
-https://data.deeplogic.dev/
+https://data.deeplogic.ch/
 
 
 ## Features
